@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-[![Cheftz's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=cheftz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/cheftz/github-readme-stats#gh-dark-mode-only)
-[![Cheftz's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=cheftz&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/cheftz/github-readme-stats#gh-light-mode-only)
-
+<a href="https://github.com/cheftz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cheftz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cheftz&layout=compact&layout=compact&theme=algolia"/>
+</a>
 <!--
 **cheftz/cheftz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
