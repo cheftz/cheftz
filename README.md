@@ -3,8 +3,8 @@
 ###
 <p align="left">
 <a href="https://github.com/vincentiuschristian">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vincentiuschristian&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincentiuschristian&theme=algolia"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vincentiuschristian&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincentiuschristian&theme=dark"/>
 </a>
 </p>
 
